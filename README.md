@@ -9,10 +9,6 @@
 <li>Css</li>
 <li>JavaScript</li>
 
-### `Deploy`
-
-
-
 ### 🎥 `Screen`
 
 ![](Github-Profile.gif)# Github-Profile-Card-JavaScript-Project
